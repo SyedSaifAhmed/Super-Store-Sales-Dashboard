@@ -21,4 +21,4 @@ For those who seek more in-depth insights, I have included a "Detailed Report" b
 
 <embed src="https://public.tableau.com/views/Assignments_16902988926760/Dashboard1-SalesAnalytics?:language=en-US&:display_count=n&:origin=viz_share_link" style="width:500px; height: 300px;">
 
-
+<embed src="https://public.tableau.com/views/Assignments_16902988926760/Dashboard1-SalesAnalytics?:language=en-US&:display_count=n&:origin=viz_share_link" style="width:100%; height: 50vw;">
