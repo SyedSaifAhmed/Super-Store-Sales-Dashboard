@@ -14,5 +14,5 @@ For those who seek more in-depth insights, I have included a "Detailed Report" b
 
 ## Screenshot
 
-![](Images/Sales 2.jpg)
-![](Images/Details 2.jpg)
+![](Images/Sales%202.jpg)
+![](Images/Details%202.jpg)
